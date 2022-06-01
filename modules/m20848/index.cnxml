@@ -1,0 +1,325 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om oppervlakte te kan bepaal deur meting en berekening</title>
+  <metadata>
+  <md:content-id>m20848</md:content-id><md:title>Om oppervlakte te kan bepaal deur meting en berekening</md:title>
+  <md:abstract/>
+  <md:uuid>810c323a-a52c-4a30-826b-8e473f3a88c6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id10493648">
+      <title>NATUURWETENSKAPPE</title>
+      <para id="para-id10493648">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10493659">
+      <title>Materie, Meting en Reaksies</title>
+      <para id="para-id10493659">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10493667">
+      <title>Materie en Meting</title>
+      <para id="para-id10493667">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10493678">
+      <title>OPVOEDER AFDELING</title>
+      <para id="para-id10493678">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10493690">
+      <title>Memorandum</title>
+      <para id="id10493700">1. My metode:</para>
+      <para id="id10493707"> Oppervlakte  = l × b</para>
+      <para id="id10493715"> = 6 cm × 10 cm</para>
+      <para id="id10493721"> = 60 cm<sup>2</sup></para>
+      <para id="id10493734">2. A = ℓ × b</para>
+      <para id="id10493741">Area (oppervlakte) = lengte vermenigvuldig met breedte</para>
+      <para id="id10493746">Jy gebruik hierdie formule om die oppervlakte van ‘n reghoek te bepaal.</para>
+      <para id="id10493756">3. 25 cm<sup>2</sup></para>
+    </section>
+    <section id="id10493768">
+      <title>LEERDER AFDELING</title>
+      <para id="para-id10493768">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10493782">
+      <title>Inhoud</title>
+      <section id="id10493796">
+        <title>AKTIWITEIT: Om oppervlakte te kan bepaal deur meting en berekening [LU 1.2]</title>
+        <para id="id10493811">Het jy al iemand hoor sê: "Die huis se grootte is 150 vierkante meter (150 m²)"? Is julle seker dat julle die term <emphasis effect="bold">vierkante</emphasis> meter verstaan?</para>
+        <para id="id10493828">Kyk na die skets:</para>
+        <para id="id10493833">Elke blokkie stel een vierkante meter voor. 'n Vierkante meter is 'n vierkantige oppervlakte waarvan elke sy een meter lank is.</para>
+        <para id="id10493842">As ons dus sê die oppervlakte van fig. X is 100 m², bedoel ons dat ons een- honderd oppervlaktes van 1 m² daarin kan plaas. 'n Mens sou elke blokkie kon tel om die grootte van die oppervlakte te bepaal, maar daar is 'n korter metode.</para>
+        <para id="id10493855">Indien die lengte van die een sy (10 m) vermenigvuldig word met die lengte van die ander sy (10 m), word die aantal vierkante meterblokkies wat in die totale oppervlakte kan inpas (100), verkry (10 m × 10 m = 100 m²). </para>
+        <table id="id10493870" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id10064638"> Fig. X</para>
+        <para id="id10064644">1. Hoe sal jy die oppervlakte van die volgende reghoek bepaal?(Elke blokkie is 1 cm²)Die lengte van hierdie reghoek is 100 mm en die breedte is 60 mm.</para>
+        <table id="id10064655" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id10065026">My metode: </para>
+        <para id="id10065031">_____________________________________________________________________</para>
+        <para id="id10065037">_____________________________________________________________________</para>
+        <para id="id10065042">_____________________________________________________________________</para>
+        <para id="id10065048">_____________________________________________________________________</para>
+        <para id="id10065054">_____________________________________________________________________</para>
+        <para id="id10065060">_____________________________________________________________________</para>
+        <para id="id10065065">(5)</para>
+        <para id="id10065070">2. Wat beteken die volgende formule: A = ℓ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ times } {}</m:annotation></m:semantics></m:math> b?</para>
+        <para id="id10065125">_____________________________________________________________________</para>
+        <para id="id10065131">_____________________________________________________________________</para>
+        <para id="id10065136">_____________________________________________________________________</para>
+        <para id="id10065142">_____________________________________________________________________</para>
+        <para id="id10065148">_____________________________________________________________________</para>
+        <para id="id10065154">_____________________________________________________________________</para>
+        <para id="id10065159">3. Pas die volgende formule toe om die oppervlakte van die gegewe driehoek te bepaal:</para>
+        <para id="id10065167">
+          <figure id="id10065171">
+            <media id="id10065171_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-30ff.png" id="id10065171__onlineimage" height="192" width="550"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id10065195"><emphasis effect="italics">b</emphasis> staan vir die lengte van die basis</para>
+        <para id="id10065204"><emphasis effect="italics">h</emphasis> staan vir die hoogte van die loodregte lyn</para>
+        <list id="id10065214" list-type="bulleted">
+          <item>My antwoord (geskat):______________________________________________</item>
+          <item>My antwoord (bereken volgens die gegewe formule)::____________________</item>
+        </list>
+        <para id="id10065230">(2)</para>
+      </section>
+    </section>
+    <section id="id10065237">
+      <title>Assessering</title>
+      <para id="id10065251"><emphasis>Leeruitkomste 1: </emphasis>Die leerder is in staat om met selfvertroue op weetgierigheid oor natuurlike verskynsels te reageer, en om binne die konteks van wetenskap, tegnologie en die omgewing verbande te ondersoek en probleme op te los.</para>
+      <para id="id10065274"><emphasis>Assesseringstandaard 1.2:</emphasis> Dit is duidelik wanneer die leerder ondersoeke uitvoer en data versamel: organiseer en gebruik apparaat/toerusting of bronne om inligting in te win en te noteer.</para>
+    </section>
+  </content>
+</document>

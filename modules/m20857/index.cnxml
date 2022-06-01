@@ -1,0 +1,177 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om die digtheid van water te bereken</title>
+  <metadata>
+  <md:content-id>m20857</md:content-id><md:title>Om die digtheid van water te bereken</md:title>
+  <md:abstract/>
+  <md:uuid>7689282b-2b78-4f7b-9ab6-c2c452eeea19</md:uuid>
+</metadata>
+
+<content>
+    <section id="id13116890">
+      <title>NATUURWETENSKAPPE</title>
+      <para id="para-id13116890">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3955072">
+      <title>Materie, Meting en Reaksies</title>
+      <para id="para-id3955072">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9991601">
+      <title>Materie en Meting</title>
+      <para id="para-id9991601">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13261973">
+      <title>OPVOEDER AFDELING</title>
+      <para id="para-id13261973">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13143988">
+      <title>Memorandum</title>
+      <para id="id13147778">Dit is belangrik dat leerders weet dat die digtheid van water 1 g/cm3 is. Dit beteken dat 1 liter water 1 kg weeg.</para>
+      <para id="id5307380">Die assessering soos in die module voorgestel, is belangrik, ook vir die leerder se portefeulje.</para>
+      <figure id="id10733161">
+        <media id="id10733161_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1.jpg" id="id10733161__onlineimage" height="232" width="397"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id7650808">
+      <title>LEERDER AFDELING</title>
+      <para id="para-id7650808">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3732331">
+      <title>Inhoud</title>
+      <section id="id3796290">
+        <title>AKTIWITEIT: Om die digtheid van water te bereken [LU 2.3, LU 2.4]</title>
+        <para id="id3835622">TRANSLASIETAAK:</para>
+        <para id="id3653940">Die volgende stelle lesings is verkry nadat die massa en die volume van water gemeet is:</para>
+        <table id="id13670433" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Lesing 1</entry>
+                <entry>Lesing 2</entry>
+                <entry>Lesing 3</entry>
+                <entry>Lesing 4</entry>
+                <entry>Lesing 5</entry>
+              </row>
+              <row>
+                <entry>Massa: 50 gVolume: 50 cm<sup>3</sup></entry>
+                <entry>Massa: 30 gVolume: 30 cm<sup>3</sup></entry>
+                <entry>Massa: 90 g Volume: 90 cm<sup>3</sup></entry>
+                <entry>Massa: 80 gVolume: 80 cm<sup>3</sup></entry>
+                <entry>Massa: 60 gVolume: 60 cm<sup>3</sup></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6801978">Gebruik die lesings op bl. 34 om ‘n grafiek op te stel om die verskillende verhoudings aan te dui en die digtheid van water te bereken. (Die digtheid word verkry deur die massa deur die volume te deel.)</para>
+        <para id="id4026328"/>
+        <para id="id7785528">KRITERIA VIR DIE ASSESSERING VAN DIE TRANSLASIETAAK:</para>
+        <para id="id7358342">1. ‘n Geskikte opskrif.</para>
+        <para id="id10718615">2. Albei asse is korrek gemerk.</para>
+        <para id="id7956543">3. Skaal vir albei asse is toepaslik.</para>
+        <para id="id10968321">4. Berekende waarde van die digtheid is korrek.</para>
+        <para id="id11699093">5. Al die koördinate is korrek geteken.</para>
+        <para id="id13085172">6. Digtheid is korrek bereken en aangedui (Digtheid: 1 g/ cm3).</para>
+        <para id="id9755831">ASSESSERING AAN DIE HAND VAN DIE KRITERIA</para>
+        <table id="id9755836" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>LU</entry>
+                <entry>PUNTE</entry>
+                <entry>VLAK</entry>
+                <entry>VLAKAANDUIDER</entry>
+              </row>
+              <row>
+                <entry>1 en 2</entry>
+                <entry>1-34%</entry>
+                <entry>1</entry>
+                <entry>Kon nie die grafiek voorberei nie</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>35-39%</entry>
+                <entry>2</entry>
+                <entry>Tot en met 4 foute op die lys van kriteria</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>40-69%</entry>
+                <entry>3</entry>
+                <entry>2 of 3 foute op die lys van kriteria</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>70-100%</entry>
+                <entry>4</entry>
+                <entry>Geen of slegs een fout begaan</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id13285563" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LU 2.3</entry>
+                <entry>VLAK</entry>
+              </row>
+              <row>
+                <entry>LU 2.4 </entry>
+                <entry>PUNT</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id10995064">KOMMENTAAR:</para>
+        <para id="id3625591">_____________________________________________________________________</para>
+        <para id="id7522744">_____________________________________________________________________</para>
+        <para id="id10909389">_____________________________________________________________________</para>
+        <para id="id13188046">_____________________________________________________________________</para>
+        <para id="id3725940">_____________________________________________________________________</para>
+        <para id="id13189581">_____________________________________________________________________</para>
+        <para id="id4589651">_____________________________________________________________________</para>
+        <para id="id11167828">_____________________________________________________________________</para>
+        <para id="id7243684">_____________________________________________________________________</para>
+        <para id="id13241874">_____________________________________________________________________</para>
+        <para id="id10077324">_____________________________________________________________________</para>
+        <para id="id7701661">_____________________________________________________________________</para>
+        <para id="id7807272">_____________________________________________________________________</para>
+        <para id="id7337789">_____________________________________________________________________</para>
+        <para id="id7226560">_____________________________________________________________________</para>
+        <para id="id3795693">_____________________________________________________________________</para>
+        <para id="id8100689">_____________________________________________________________________</para>
+        <para id="id4566298">_____________________________________________________________________</para>
+        <para id="id7523409">_____________________________________________________________________</para>
+        <para id="id13107380">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id5194747">
+      <title>Assessering</title>
+      <para id="id8229394"><emphasis>Leeruitkomste 2: </emphasis>Die leerder ken, interpreteer en pas wetenskaplike, tegnologiese en omgewingskennis toe.</para>
+      <para id="id7788123"><emphasis>Assesseringstandaard 2.3:</emphasis> Dit is duidelik wanneer die leerder inligting interpreteer: identifiseer kernidees in die teks, vind patrone in aangetekende data en maak gevolgtrekkings uit inligting in verskeie vorme (prente, diagramme, ens.).</para>
+      <para id="id9193928"><emphasis>Assesseringstandaard 2.4:</emphasis> Dit is duidelik wanneer die leerder kennis toepas: pas konseptuele kennis toe deur ‘n begrip wat onderrig is met ‘n variasie van ‘n soortgelyke situasie in verband te bring.</para>
+    </section>
+  </content>
+</document>
